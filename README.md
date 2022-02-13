@@ -7,7 +7,9 @@
 * 2022-02-24
    * MVC와 템플릿 엔진
    * API
-     * @ResponseBody 사용원리 
+     * @ResponseBody 사용원리
+     * 서버사이드렌더링(SSR) vs 클라이언트사이드 렌더링(CSR)
+     * HttpMessageConverter
    * 테스트케이스 작성
      * Junit5
      * AssertJ
