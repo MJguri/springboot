@@ -1,5 +1,6 @@
 package team.mjguri.springboot_hello.repository;
 
+import org.springframework.stereotype.Repository;
 import team.mjguri.springboot_hello.domain.Member;
 
 import java.util.*;

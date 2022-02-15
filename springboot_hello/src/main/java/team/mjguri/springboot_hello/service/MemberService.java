@@ -1,5 +1,7 @@
 package team.mjguri.springboot_hello.service;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 import team.mjguri.springboot_hello.domain.Member;
 import team.mjguri.springboot_hello.repository.MemberRepository;
 import team.mjguri.springboot_hello.repository.MemoryMemberRepositoty;
